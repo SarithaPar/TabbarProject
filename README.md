@@ -1,0 +1,2 @@
+# TabbarProject
+Basic XCUITest configuration
